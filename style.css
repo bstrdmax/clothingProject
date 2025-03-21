@@ -1,0 +1,79 @@
+/*Project Start*/
+/*reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --main-color:#239b7e;
+    --main-font:'Playfair Display',serif;
+    --primary-font:'Roboto', sans-serif;
+}
+
+/*reset*/
+
+/*Nav */
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-family: var(--primary-font);
+    font-weight: bold;
+}
+
+.logo{
+    margin-left: 5rem;
+}
+
+.burger{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-right: 5rem;
+
+}
+
+.burger span{
+    border: 2px solid var(--main-color);
+    width: 40px;
+    height: 1px;
+    margin: 2px;
+}
+/*Nav */
+
+/*header */
+
+
+/*header */
+
+
+/*Heading */
+
+
+
+/*Heading */
+
+
+/*Main */
+
+
+/*Main */
+
+
+/*Footer */
+
+
+/*Footer */
+
+
+/*Responsiveness*/
+
+
+/*Responsiveness*/
+/*Project End*/
