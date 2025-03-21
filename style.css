@@ -114,22 +114,36 @@ header{
 
 .header-img{
     border-radius: 100%;
-    background-color: url(/public/1download.jpg);
+    background: url(public/1download.jpg);
     background-position: center;
     background-size: cover;
     width: 400px;
     height: 400px;
 }
 /*header */
+/*Section One */
+
+.section-one{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 7rem;
+}
+
+.section-one-img{
+    background: url(public/1download.jpg);
+    background-position: top;
+    background-size: cover;
+}
 
 
-/*Heading */
+/*Section One */
+/*Section two */
 
 
 
-/*Heading */
-
-
+/*Section two */
 /*Main */
 
 
